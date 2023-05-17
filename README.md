@@ -6,7 +6,22 @@ thereby allowing the object model and database schema to develop in a cleanly de
 
 ### Documentation : https://docs.sqlalchemy.org/en/20/orm/
 ## SHOW DATA :
-<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/08ab773d-88e9-42db-92e5-5b6b6a21132a" width="420" height="350">&nbsp;&nbsp;</P>
+ 
+```python
+print("-----------ALL MOVIES NAME-----------\n")
+mv=select(Movie)           # show all movieset
+
+for i in sess1.scalars(mv):
+    print(i.title,i.release_yr,i.rating,"/10")
+print("\n")
+print("+" *40)    
+
+mv=select(Movie).where(Movie.title.in_(["The Godfather", "Psycho"])) #using where cluse  
+for t in sess1.scalars(mv):
+    print(t)
+print("\n")
+print("+" *40)   
+```
     
 ##OUTPUT :
 <p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/0e2cef5f-1122-4147-bcd2-e456f53bd79b" width="420" height="350">&nbsp;&nbsp;
