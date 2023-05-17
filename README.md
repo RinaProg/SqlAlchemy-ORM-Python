@@ -6,12 +6,13 @@ thereby allowing the object model and database schema to develop in a cleanly de
 
 ### Documentation : https://docs.sqlalchemy.org/en/20/orm/
 ## SHOW DATA :
-<p><img src="" width="70" height="70">&nbsp;&nbsp;</P>
+<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/08ab773d-88e9-42db-92e5-5b6b6a21132a
+" width="150" height="150">&nbsp;&nbsp;</P>
     
 ##OUTPUT :
-<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/0e2cef5f-1122-4147-bcd2-e456f53bd79b" width="70" height="70">&nbsp;&nbsp;
-<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/3804216f-0a85-4773-8dd5-90d0f621be8e" width="70" height="70">&nbsp;&nbsp;</P>
-![]()
+<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/0e2cef5f-1122-4147-bcd2-e456f53bd79b" width="150" height="220">&nbsp;&nbsp;
+<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/3804216f-0a85-4773-8dd5-90d0f621be8e" width="150" height="220">&nbsp;&nbsp;</P>
+
 
 
 ## 
