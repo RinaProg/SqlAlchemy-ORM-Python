@@ -23,7 +23,7 @@ print("\n")
 print("+" *40)   
 ```
     
-##OUTPUT :
+## OUTPUT :
 ```
 The Godfather 1972 9 /10  
 The Dark Knight 2008 9 /10
@@ -48,7 +48,7 @@ print("\n")
 print("+" *40) 
 
 ```
-##OUTPUT :
+## OUTPUT :
 ```
 <movie name=Toy Story 3 release year=2010 and rating=8 >
 ```
