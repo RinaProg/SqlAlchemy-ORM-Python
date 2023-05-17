@@ -10,7 +10,7 @@ thereby allowing the object model and database schema to develop in a cleanly de
     
 ##OUTPUT :
 <p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/0e2cef5f-1122-4147-bcd2-e456f53bd79b" width="420" height="350">&nbsp;&nbsp;
-<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/3804216f-0a85-4773-8dd5-90d0f621be8e" width="420" height="350">&nbsp;&nbsp;</P>
+<p><img src="https://github.com/RinaProg/SqlAlchemy-ORM-Python/assets/122221586/3804216f-0a85-4773-8dd5-90d0f621be8e" width="500" height="250">&nbsp;&nbsp;</P>
 
 
 
